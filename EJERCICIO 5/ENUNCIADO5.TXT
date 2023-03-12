@@ -1,0 +1,10 @@
+1. Búsqueda por dicotomía en una tabla ordenada
+El capítulo «Iteración» ha resuelto el problema definiendo una función iterativa.
+Ejercicio resuelto 5: Búsqueda recursiva por dicotomía en una tabla ordenada
+Se pide resolver el mismo problema definiendo una función recursiva.
+
+(Ejercicio 5: Encontrar los clientes que viven en ’TOLEDO’
+Queremos establecer la lista de los clientes domiciliados en la ciudad de TOLEDO para enviarles un folleto.
+1. Escribir el algoritmo que determina todos los clientes que viven en ’TOLEDO’.
+Se ha programado una promoción para los clientes que viven en la Comunidad de Madrid (su código postal empieza por 28) y tienen entre 40 y 50 años.
+2. Escribir el algoritmo que selecciona estos clientes.)
