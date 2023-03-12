@@ -1,9 +1,9 @@
 # RECURSIVIDAD
-1. Búsqueda por dicotomía en una tabla ordenada
+# 1. Búsqueda por dicotomía en una tabla ordenada <br>
 Ejercicio resuelto 5: Búsqueda recursiva por dicotomía en una tabla ordenada
 Se pide resolver el mismo problema (ejercicio 5 de iteracion )definiendo una función recursiva.
 
-2. Palíndromos
+# 2. Palíndromos<br>
 Se llama palíndromo a un texto que es el mismo que su imagen reflejada. Así, por ejemplo, las palabras ’SALAS’, ’oso’, ’26762’ son palíndromos. Es decir, un palíndromo se lee de derecha a izquierda como de izquierda a derecha.
 
 Con esta definición, ’Salas’ u ’¡oso!’ ya no son palíndromos. En el primero, la letra mayúscula inicial y, en el segundo, el espacio y el signo de exclamación perturban la imagen espejo de la palabra. Igualmente, la frase ’Logré ver gol’ sería un palíndromo si la letra mayúscula al inicio de la frase fuera ’l’, si la letra ’é’ no estuviera acentuada y si se eliminaran los espacios.
@@ -20,9 +20,8 @@ verificar que el texto filtrado es igual a su imagen reflejada.
 
 Hacer un algoritmo que reconozca un palíndromo.
 
-3. La bandera de Dijkstra
+# 3. La bandera de Dijkstra<br>
 Ejercicio resuelto 7: El problema de la «bandera» de Dijkstra
-
 
 Consideramos un conjunto de n fichas de colores. Cada ficha es de un solo color. Algunas son rojas, otras verdes y otras son azules. Inicialmente, las fichas no están alineadas en orden. El problema consiste en obtener una organización de las fichas en tres series de fichas del mismo color: primero fichas rojas, luego fichas verdes y después fichas azules. Esta organización debe obtenerse mediante intercambios sucesivos, pero el color de cada ficha solo se comprueba una vez.
 
